@@ -4,4 +4,4 @@
 ### Olá, eu sou a Thaís Rivani 🙋🏻💻
 
 Apaixonada pela área de banco de dados.
-Amo aprender e compartilho com vocês um pouquinho do que já aprendi.
+Gosto muito de aprender, e por aqui compartilho com vocês um pouquinho disso.
