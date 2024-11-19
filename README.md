@@ -1,9 +1,16 @@
-# 👩🏻‍💻 Thaís Rivani — DBA Júnior 🚀
+# Olá , eu sou a Thaís Rivani 👩🏻‍💻 
 
-**SQL Server & Oracle**
+**DBA Júnior | SQL Server & Oracle**
 
 
-Me chamo Thaís Rivani, tenho 23 anos. Tenho me aprofundado no mundo de bancos de dados, com experiência prática em SQL Server e Oracle (Windows e Linux).Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
+• 📚 Dedicando tempo estudando para se tornar especialista em **SQL Server**
+
+
+• 💾 Experiência pratica em **Oracle, SQLServer, Linux e Windows**
+
+
+
+Tenho 23 anos e estou me aprofundado no mundo de bancos de dados, com experiência prática em SQL Server e Oracle (Windows e Linux).Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
 
 Aqui no GitHub, compartilho alguns dos scripts que utilizo no meu dia a dia de trabalho e estudos. Estou constantemente melhorando minhas habilidades e dividindo um pouco dessa jornada com vocês.
 
