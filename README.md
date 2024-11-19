@@ -10,9 +10,9 @@
 
 
 
-Tenho 23 anos e trabalho como dba júnior e possuo experiência prática.Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
+Tenho 23 anos, e sou DBA Júnior, com experiência prática na área.Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
 
-Aqui no GitHub, compartilho alguns dos scripts que utilizo no meu dia a dia de trabalho e estudos. Estou constantemente melhorando minhas habilidades e dividindo um pouco dessa jornada com vocês.
+No meu **GitHub**, compartilho alguns dos **scripts** que utilizo no meu dia a dia de trabalho e estudos. Estou constantemente evoluindo e gosto de dividir o que aprendo.
 
 
 
