@@ -10,7 +10,7 @@
 
 
 
-Tenho 23 anos e estou me aprofundado no mundo de bancos de dados, com experiência prática em SQL Server e Oracle (Windows e Linux).Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
+Tenho 23 anos e trabalho como dba júnior e possuo experiência prática.Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
 
 Aqui no GitHub, compartilho alguns dos scripts que utilizo no meu dia a dia de trabalho e estudos. Estou constantemente melhorando minhas habilidades e dividindo um pouco dessa jornada com vocês.
 
