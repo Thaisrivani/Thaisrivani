@@ -10,7 +10,7 @@
 
 
 
-Tenho 23 anos, e sou DBA Júnior.Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
+Tenho 23 anos, e estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
 
 No meu **GitHub**, compartilho alguns dos **scripts** que utilizo no meu dia a dia de trabalho e estudos. Estou constantemente evoluindo e gosto de dividir o que aprendo.
 
