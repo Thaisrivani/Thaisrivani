@@ -18,8 +18,6 @@ No meu **GitHub**, compartilho alguns dos **scripts** que utilizo no meu dia a d
 
 **📩 Conecte-se comigo:**
 
-Estou disponível para discutir sobre bancos de dados, tecnologias, conexões profissionais e troca de soluções técnicas. 
-
 Fique à vontade para entrar em contato e compartilhar experiências!
 
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tha%C3%ADs-rivani-251574180/)
