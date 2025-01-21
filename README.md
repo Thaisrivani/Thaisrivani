@@ -1,6 +1,6 @@
 # Olá , eu sou a Thaís Rivani 👩🏻‍💻 
 
-**DBA Júnior | SQL Server & Oracle**
+**DBA Júnior | SQL Server**
 
 
 • 📚 Dedicando tempo estudando para se tornar especialista em **SQL Server**
