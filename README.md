@@ -6,10 +6,7 @@
 • 📚 Dedicando tempo estudando para se tornar especialista em **SQL Server**
 
 
-• 💾 Experiência pratica em **Oracle, SQLServer, Linux e Windows**
-
-
-• 💡 Tenho 23 anos, e estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
+• 💡 sempre buscando melhorar minhas habilidades e expandir meu conhecimento na área.
 
 
 No meu **GitHub**, compartilho alguns dos **scripts** que utilizo no meu dia a dia de trabalho e estudos. Estou constantemente evoluindo e gosto de dividir o que aprendo.
